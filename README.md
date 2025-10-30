@@ -12,7 +12,7 @@ Minha paixão é o desenvolvimento Backend, onde tenho 2 anos de experiência co
 * **Comunicação:** APIs REST, Microsserviços com **gRPC**.
 * **Mensageria:** Conhecimento prático em **RabbitMQ** e **Kafka** (processamento assíncrono).
 * **Banco de Dados:** Experiência com SQL Server, MongoDB e **PostgreSQL**.
-* **Práticas:** Arquitetura de APIs, Clean Code, Testes Automatizados.
+* **Práticas:** Arquitetura de APIs, Domain-Driven Design, Clean Code, Testes Automatizados.
 
 ### ✨ Foco em Inovação e Portfólio
 
